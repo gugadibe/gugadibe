@@ -1,16 +1,20 @@
-## Hi there 👋
+# Gustavo Dibe
 
-<!--
-**gugadibe/gugadibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer na **Compass UOL**, apaixonado por tecnologia e por criar experiências digitais modernas.
 
-Here are some ideas to get you started:
+🎓 Análise de Sistemas  
+📈 Pós-graduação em Marketing Digital  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,jest" />
+</p>
+
+---
+
+## 🌐 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/gustavo-dibe/)
